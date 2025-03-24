@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é uma aplicação simples de uma bateria virtual, desenvolvida com **HTML**, **CSS** e **JavaScript puro**. 
+Este projeto é uma aplicação simples de uma bateria virtual, desenvolvida com **HTML**, **CSS** e **JavaScript puro**.
 
 🎵 O usuário pode tocar os sons de bateria tanto clicando nos botões na tela quanto usando as teclas do teclado. Além disso, há um campo para compor uma sequência personalizada de sons.
 
